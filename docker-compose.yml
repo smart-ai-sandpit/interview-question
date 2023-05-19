@@ -7,5 +7,4 @@ services:
     image: interview/api:latest
     container_name: interview_api
     ports: 
-      - "8888:8888
-    
+      - 8888:8888
