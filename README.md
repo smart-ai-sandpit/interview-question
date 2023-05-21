@@ -28,7 +28,9 @@ This repository is for the AI-Sandpit interview.
 
 ## Interview Questions
 
-1. Build the docker image and run the application
+1. Build the docker images and run the applications
+    * Hint: Should only require `docker compose`
+    * Hint: The service is running on `localhost:8888`, unless changes are made to `docker-compose.yml`
 2. Create a request to obtain the list of users (any language)
 3. Obtain list of items for a user and iterate over, presenting the panel each item.
 
