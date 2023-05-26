@@ -34,6 +34,12 @@ This repository is for the AI-Sandpit interview.
 2. Create a request to obtain the list of users (any language)
 3. Obtain list of items for a user and iterate over, presenting the panel each item.
 
+## Dummy Service
+
+If you list docker containers `docker container ls` after `docker compose`, you will note the dummy service.
+
+This service will exit after creating dummy data and can be ignored.
+
 ## License 
 
 ```
